@@ -1,36 +1,28 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🌐 Next.js 15 Website — Figma to Code
 
-## Getting Started
+This project is a fully responsive website built using **Next.js 15** and **Tailwind CSS**, featuring smooth animations and an elegant **Swiper.js** slider.  
+The design was carefully converted from a Figma community template to clean, production-ready code.
 
-First, run the development server:
+🎨 **Figma Design:** [View on Figma](https://www.figma.com/community/file/1314076616839640516)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🧩 Features
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+✅ Fully responsive design (mobile, tablet, desktop)  
+✅ Built with latest **Next.js 15 App Router**  
+✅ Elegant and smooth **Swiper.js** slider  
+✅ Modern UI from **Figma design**  
+✅ Fast performance and optimized images  
+✅ Reusable and modular component structure  
+✅ SEO-friendly setup  
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+File
 
-To learn more about Next.js, take a look at the following resources:
+## 💡 Notes
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- All sections were coded manually based on the Figma layout, maintaining pixel-perfect accuracy.  
+- Swiper.js was used for responsive sliders and carousels.  
+- Tailwind utilities were used for fast and consistent styling. 
