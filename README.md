@@ -19,7 +19,6 @@ The design was carefully converted from a Figma community template to clean, pro
 
 ---
 
-File
 
 ## 💡 Notes
 
